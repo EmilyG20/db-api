@@ -1,4 +1,4 @@
-{[
+[{
   "ropa": [
     {
       "id": 1,
@@ -31,8 +31,8 @@
       "image": "https://falabella.scene7.com/is/image/FalabellaPE/882538181_1?wid=800&hei=800&qlt=70",
     },
     
-  ],
-  "accesorios": [
+  ]},
+ {"accesorios": [
     {
       "id": 1,
       "title": "Collar con diseño",
@@ -65,4 +65,4 @@
     },
     
   ],
-]}
+}]
