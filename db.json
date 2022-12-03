@@ -1,0 +1,68 @@
+{[
+  "ropa": [
+    {
+      "id": 1,
+      "title": "Polera con diseño de huesitos",
+      "price": "20.00"
+      "image": "https://http2.mlstatic.com/D_NQ_NP_732312-MLA49448184574_032022-O.webp",
+    },
+    {
+      "id": 2,
+      "title": "Casaca con capucha roja",
+      "price": "20.00"
+      "image": "https://cdn.redcanina.es/wp-content/uploads/2019/10/22112438/Sudadera-para-perros-grandes.jpg",
+    },
+    {
+      "id": 3,
+      "title": "Chompa tejida azul",
+      "price": "20.00"
+      "image": "https://sc04.alicdn.com/kf/HTB1QoMeiHsrBKNjSZFp763XhFXaA.png",
+    },
+    {
+      "id": 4,
+      "title": "Polo de rayas azules",
+      "price": "20.00"
+      "image": "https://www.rlmedia.io/is/image/PoloGSI/s7-1374918_lifestyle?$plpDeskRF$",
+    },
+    {
+      "id": 5,
+      "title": "Chaleco verde",
+      "price": "20.00"
+      "image": "https://falabella.scene7.com/is/image/FalabellaPE/882538181_1?wid=800&hei=800&qlt=70",
+    },
+    
+  ],
+  "accesorios": [
+    {
+      "id": 1,
+      "title": "Collar con diseño",
+      "price": "20.00"
+      "image": "https://http2.mlstatic.com/D_NQ_NP_660161-MPE40320147332_012020-O.jpg",
+    },
+    {
+      "id": 2,
+      "title": "Sombrero verde",
+      "price": "20.00"
+      "image": "https://ae01.alicdn.com/kf/H1b77cb3899cb418eac4f5832e6e1b082I/Gorro-c-lido-de-invierno-para-perro-y-mascota-gorro-de-lana-a-prueba-de-viento.jpg_.webp",
+    },
+    {
+      "id": 3,
+      "title": "Zapatos para lluvia",
+      "price": "20.00"
+      "image": "https://falabella.scene7.com/is/image/FalabellaPE/18747119_1?wid=800&hei=800&qlt=70",
+    },
+    {
+      "id": 4,
+      "title": Corbata michi",
+      "price": "20.00"
+      "image": "https://i.pinimg.com/originals/a3/be/70/a3be7016c96f4c7226c22cc33e017392.jpg",
+    },
+    {
+      "id": 5,
+      "title": "Lentes de sol amarillos",
+      "price": "20.00"
+      "image": "https://http2.mlstatic.com/D_NQ_NP_966107-MLA31035854353_062019-O.jpg",
+    },
+    
+  ],
+]}
